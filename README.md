@@ -8,9 +8,9 @@ DATABASE_NAME | name of database to create | default |
 INFLUX_ADMIN_ID | admin user | admin |
 INFLUX_ADMIN_PASSWORD | 256-bit openssl encrypted password | | 537Gm6HZpoNOjF/LJrwDfQ==
 WRITE_ID | name of write user for DB | writer |
-WRITE_PASSWORD | 256-bit openssl encrypted password | |
+WRITE_PASSWORD | 256-bit openssl encrypted password | | 537Gm6HZpoNOjF/LJrwDfQ==
 READ_ID | name of read user for DB | reader |
-READ_PASSWORD | 256-bit openssl encrypted password | |
+READ_PASSWORD | 256-bit openssl encrypted password | | 537Gm6HZpoNOjF/LJrwDfQ==
 STANDARD_CRYPT__IV | 256-bit openssl initialization vector | | hex encoded 32 charachters
 STANDARD_CRYPT__KEY | 256-bit openssl key | | hex encoded 64 charachters
 
